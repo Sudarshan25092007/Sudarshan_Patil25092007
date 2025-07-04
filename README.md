@@ -5,6 +5,7 @@
 🔧 Tech Stack: Python • Firebase • JavaScript • HTML/CSS  
 🌱 Currently Learning: Full Stack Web Development & Git/GitHub  
 💼 Projects: Civic Reporter App |[ https://civic-reporter-2007.web.app/]
+
 📈 Goals: Become internship-ready by 2nd year and master problem-solving  
 🌐 Portfolio: Coming Soon  
 📫 Reach me at: ddaarrsshuu@gmail.com
