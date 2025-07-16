@@ -2,7 +2,7 @@
 
 🎓 First-Year Student at Scaler School of Technology (SST'25)  
 💡 Passionate about building real-world apps that solve everyday problems  
-🔧 Tech Stack: Python • Firebase • JavaScript • HTML/CSS  
+🔧 Tech Stack: • Firebase • JavaScript • HTML/CSS  
 🌱 Currently Learning: Full Stack Web Development & Git/GitHub  
 💼 Projects: Civic Reporter App |[ https://civic-reporter-2007.web.app/]
 
