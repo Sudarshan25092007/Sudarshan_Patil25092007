@@ -7,7 +7,7 @@
 💼 Projects: Civic Reporter App |[ https://civic-reporter-2007.web.app/]
 
 📈 Goals: Become internship-ready by 2nd year and master problem-solving  
-🌐 Portfolio: Coming Soon  
+🌐 Portfolio: 
 📫 Reach me at: ddaarrsshuu@gmail.com
 
 ---
