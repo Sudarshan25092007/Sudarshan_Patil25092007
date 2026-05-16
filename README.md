@@ -41,23 +41,127 @@
 
 <p align="center">
   <b>Frontend & Mobile</b><br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next" alt="Frontend & Mobile Skills" />
-  </a>
 </p>
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr align="center">
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /><br>
+      <sub><b>Tailwind</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>
+      <sub><b>React</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="Next.js" /><br>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" /><br>
+      <sub><b>Three.js</b></sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <b>Backend, Database & Cloud</b><br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,supabase,mongodb,firebase" alt="Backend & Cloud Skills" />
-  </a>
 </p>
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr align="center">
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br>
+      <sub><b>Express</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" /><br>
+      <sub><b>Supabase</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br>
+      <sub><b>Firebase</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>
+      <sub><b>Docker</b></sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <b>Tools & Languages</b><br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,github,vscode,vercel,postman" alt="Tools & Languages" />
-  </a>
+</p>
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr align="center">
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>
+      <sub><b>Java</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br>
+      <sub><b>C++</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>
+      <sub><b>Git</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br>
+      <sub><b>Vercel</b></sub>
+    </td>
+    <td width="80" align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>
+      <sub><b>Postman</b></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>Specialized Skills</b><br><br>
+  <img src="https://img.shields.io/badge/MetaTrader_5-000000?style=for-the-badge" alt="MetaTrader 5" />
+  <img src="https://img.shields.io/badge/Algorithmic_Trading-1E1E1E?style=for-the-badge&logo=python&logoColor=white" alt="Algo Trading" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -109,16 +213,19 @@
 
 <p align="center">
   <a href="https://github.com/Sudarshan25092007">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=Sudarshan25092007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Sudarshan25092007">
-    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarshan25092007&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudarshan25092007&theme=tokyo-night&hide_border=true&bg_color=1a1b26" alt="GitHub Activity Graph" width="100%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Sudarshan25092007">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan25092007&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudarshan25092007&theme=tokyonight" alt="GitHub Profile Summary" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sudarshan25092007">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarshan25092007&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
   </a>
 </p>
 
