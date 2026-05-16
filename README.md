@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9ECE6A&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sudarshan+Patil+H+J;Full-Stack+Open Source Contributor%26+MERN+Developer;App+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9ECE6A&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sudarshan+Patil+H+J;Full-Stack+%26+MERN+Developer;App+Developer" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -40,50 +40,24 @@
 <h2 align="center" id="skills">🛠 Skills</h2>
 
 <p align="center">
-  <b>Frontend</b><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js_(App_Router)-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <b>Frontend & Mobile</b><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next" alt="Frontend & Mobile Skills" />
+  </a>
 </p>
 
 <p align="center">
-  <b>Mobile</b><br>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <b>Backend, Database & Cloud</b><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,supabase,mongodb,firebase" alt="Backend & Cloud Skills" />
+  </a>
 </p>
 
 <p align="center">
-  <b>Backend</b><br>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT_Auth-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-</p>
-
-<p align="center">
-  <b>Database & Cloud</b><br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Tools & Languages</b><br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <b>Tools & Languages</b><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,git,github,vscode,vercel,postman" alt="Tools & Languages" />
+  </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -135,10 +109,10 @@
 
 <p align="center">
   <a href="https://github.com/Sudarshan25092007">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sudarshan25092007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=Sudarshan25092007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Sudarshan25092007">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarshan25092007&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
+    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarshan25092007&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -174,6 +148,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sudarshan25092007&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
+
 <p align="center">
   <i>© 2026 Sudarshan Patil. All rights reserved.</i>
 </p>
